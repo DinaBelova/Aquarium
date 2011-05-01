@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace Aqua
+{
+    public partial class Aqua : Form
+    {
+        private int fishCount = 20;
+        private AquaCore aquaCore = new AquaCore();
+        
+        public Aqua()
+        {
+            InitializeComponent();
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            aquaCore.Tick();
+            this.Invalidate();
+        }
+
+        private void Aqua_Load(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Coral;
+            aquaCore.Initialize(fishCount, this.Width, this.Height);
+        }
+
+        private void Aqua_Paint(object sender, PaintEventArgs e)
+        {
+            Timer.Enabled = true;
+            aquaCore.Draw(e.Graphics);
+        }
+    }
+}

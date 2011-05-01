@@ -1,0 +1,54 @@
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\bin\Debug\Aqua.exe
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\bin\Debug\Aqua.pdb
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\Aqua.Aqua.resources
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\Aqua.exe
+C:\Documents and Settings\gusarovmi\Мои документы\SVN\211\Gusarov\Aqua\Aqua\obj\Debug\Aqua.pdb
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\Aqua.exe
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\Aqua.pdb
+C:\Users\Максим\Desktop\Aqua\Aqua\bin\Debug\Aqua.exe
+C:\Users\Максим\Desktop\Aqua\Aqua\bin\Debug\Aqua.pdb
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\Aqua.Aqua.resources
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\Users\Максим\Desktop\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\Aqua.exe
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\Aqua.pdb
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\bin\Debug\Aqua.exe
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\bin\Debug\Aqua.pdb
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\Aqua.Aqua.resources
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+C:\Users\Dina\Documents\Visual Studio 2008\Projects\Aqua from Max\Aqua\bin\Debug\Resources\fish1.png
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\Aqua.exe
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\Aqua.pdb
+C:\Users\Dina\Desktop\Aqua\Aqua\bin\Debug\Resources\fish1.png
+C:\Users\Dina\Desktop\Aqua\Aqua\bin\Debug\Aqua.exe
+C:\Users\Dina\Desktop\Aqua\Aqua\bin\Debug\Aqua.pdb
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\Aqua.Aqua.resources
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+C:\Users\Dina\Desktop\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+E:\Aqua\Aqua\obj\Debug\Aqua.exe
+E:\Aqua\Aqua\obj\Debug\Aqua.pdb
+E:\Aqua\Aqua\bin\Debug\Resources\fish1.png
+E:\Aqua\Aqua\bin\Debug\Aqua.exe
+E:\Aqua\Aqua\bin\Debug\Aqua.pdb
+E:\Aqua\Aqua\obj\Debug\ResolveAssemblyReference.cache
+E:\Aqua\Aqua\obj\Debug\Aqua.Aqua.resources
+E:\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+E:\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+E:\Aqua\Aqua\bin\Debug\fish1.png
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.exe
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.pdb
+H:\KuznetsovaBelova\Aqua\Aqua\bin\Debug\Resources\fish1.png
+H:\KuznetsovaBelova\Aqua\Aqua\bin\Debug\Aqua.exe
+H:\KuznetsovaBelova\Aqua\Aqua\bin\Debug\Aqua.pdb
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\ResolveAssemblyReference.cache
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.Aqua.resources
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.Properties.Resources.resources
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.csproj.GenerateResource.Cache
+H:\KuznetsovaBelova\Aqua\Aqua\obj\Debug\Aqua.Images.resources

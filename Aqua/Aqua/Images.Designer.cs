@@ -60,6 +60,20 @@ namespace Aqua {
             }
         }
         
+        internal static System.Drawing.Bitmap back {
+            get {
+                object obj = ResourceManager.GetObject("back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap background {
+            get {
+                object obj = ResourceManager.GetObject("background", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         internal static System.Drawing.Bitmap fish1 {
             get {
                 object obj = ResourceManager.GetObject("fish1", resourceCulture);
@@ -84,6 +98,13 @@ namespace Aqua {
         internal static System.Drawing.Bitmap fish4 {
             get {
                 object obj = ResourceManager.GetObject("fish4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        internal static System.Drawing.Bitmap gameOver {
+            get {
+                object obj = ResourceManager.GetObject("gameOver", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

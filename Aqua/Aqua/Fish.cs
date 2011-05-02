@@ -17,7 +17,7 @@ namespace Aqua
         private int heightSize;
         public float maximumHealth;
         private float health;
-        private bool isDead;
+        public bool isDead;
               
         public Fish(int width, int height, PointF pos)
         {
@@ -44,7 +44,8 @@ namespace Aqua
 
         private void DeadStep()
         {
-            position = new PointF(position.X, position.Y - 1);
+            if(position.Y > 0)
+                position = new PointF(position.X, position.Y - 1);
         }
 
         public override void Move(int width, int height)

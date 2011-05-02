@@ -11,7 +11,7 @@ namespace Aqua
 {
     public partial class Aqua : Form
     {
-        private int fishCount = 15;
+        private int fishCount = 10;
         private AquaCore aquaCore = AquaCore.Instance;
                
         public Aqua()

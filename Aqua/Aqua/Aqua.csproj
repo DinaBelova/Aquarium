@@ -96,7 +96,9 @@
     <Compile Include="Tools.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\1206523377_138934_20_877_artfile_ru.jpg" />
     <Content Include="Resources\7160614.jpg" />
+    <None Include="Resources\gameOver.jpg" />
     <EmbeddedResource Include="Images.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Images.Designer.cs</LastGenOutput>

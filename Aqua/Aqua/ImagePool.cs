@@ -60,11 +60,11 @@ namespace Aqua
             }
             else
             {
-                //if (!gameOver)
-                //{
-                //    ChangeBack();
-                //    gameOver = true;
-                //}
+                if (!gameOver)
+                {
+                    ChangeBack();
+                    gameOver = true;
+                }
                 if (direction == Direction.Left)
                     g.DrawImage(deadFishLeft[type], position.X, position.Y);
                 else

@@ -57,6 +57,7 @@
     <Compile Include="AquaCore.cs" />
     <Compile Include="BaseDecorator.cs" />
     <Compile Include="BaseObject.cs" />
+    <Compile Include="DeadStrategy.cs" />
     <Compile Include="Direction.cs" />
     <Compile Include="Fish.cs" />
     <Compile Include="FishType.cs" />
@@ -66,7 +67,10 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Images.resx</DependentUpon>
     </Compile>
+    <Compile Include="InitialStrategy.cs" />
     <Compile Include="InterfaceBaseObject.cs" />
+    <Compile Include="LifeStrategy.cs" />
+    <Compile Include="Strategy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Aqua.resx">
